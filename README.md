@@ -7,9 +7,8 @@
 ## :compass: Current Focus
 
 - :snake: Scientific Python software for medical image analysis, data processing, modelling, and validation
-- :repeat: Reproducible research workflows and technical documentation
-- :hospital: Building King's spinout MedCaliper as the commercial field, with a focus on medical imaging, medtech entrepreneurship, and regulatory development
-- :bar_chart: Open-source tools for quantitative analysis and structured outputs
+- :repeat: Reproducible research workflows 
+- :hospital: Building King's spinout MedCaliper as the commercial lead, with a focus on QMS aligned technical development and documentation. 
 
 ## :mailbox: Contact
 
