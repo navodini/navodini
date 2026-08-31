@@ -13,4 +13,3 @@
 ## :mailbox: Contact
 
 - [LinkedIn](https://www.linkedin.com/in/navodini-wijethilake/)
-- [GitHub](https://github.com/navodini)
